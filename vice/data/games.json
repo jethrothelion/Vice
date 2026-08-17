@@ -89,7 +89,7 @@
   {"name": "V Rising", "matches": ["VRising.exe", "vrising", "steam_app_1604030"]},
   {"name": "Don't Starve Together", "matches": ["dontstarve_steam", "dontstarve", "don't starve together", "steam_app_322330"]},
   {"name": "Left 4 Dead 2", "matches": ["left4dead2.exe", "left4dead2", "steam_app_550"]},
-  {"name": "Portal 2", "matches": ["portal2.exe", "portal2", "steam_app_620"]},
+  {"name": "Portal 2", "matches": ["portal2.exe", "portal2_linux", "steam_app_620"]},
   {"name": "Slay the Spire 2", "matches": ["SlayTheSpire2.exe", "slaythespire2"]},
   {"name": "Slay the Spire", "matches": ["SlayTheSpire.exe", "slaythespire", "steam_app_646570"]},
   {"name": "Balatro", "matches": ["Balatro.exe", "balatro", "steam_app_2379780"]},
